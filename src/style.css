@@ -1,0 +1,9 @@
+:root {
+    --backgroundColour: aquamarine;
+    --fontColour: darkblue;
+}
+
+body {
+    background-color: var(--backgroundColour);
+    color:var(--fontColour);
+}
